@@ -1,2 +1,2 @@
-# siamfc.pytorch [STILL IN PROGRESS]
+# siamfc.pytorch [IN PROGRESS]
 Git repo for tracking codebase.
